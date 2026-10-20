@@ -1,0 +1,6 @@
+{
+  "name": "CloudVault - 100GB Secure Cloud Notes",
+  "description": "Unlimited personal notes securely stored in the cloud with client-side zero-knowledge AES-256 encryption and 100GB cloud storage for $1/month.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
